@@ -11,3 +11,9 @@ produces monthly and annual estimates of job openings, hires, and separations fo
 The JOLTS program also produces monthly state estimates for all 50 states and the District of 
 Columbia at the total nonfarm industry level."
 
+column widths
+series_id 31
+year 5
+period 12
+value 4
+footnote_codes 1
